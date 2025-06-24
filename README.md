@@ -87,7 +87,7 @@ MIT License - Free to use and modify.
 
 ## Author
 
-Your Name - \[[hellosapumal@gamil.com](mailto:hellosapumal@gamil.com)]
+hellosapumal - \[[hellosapumal@gamil.com](mailto:hellosapumal@gamil.com)]
 
 ---
 
