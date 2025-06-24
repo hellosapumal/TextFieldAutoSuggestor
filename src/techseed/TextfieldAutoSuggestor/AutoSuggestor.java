@@ -28,7 +28,7 @@ import javax.swing.event.DocumentListener;
  *      Arrays.asList("col1", "col2"),
  *      "CustomerID",
  *      null, //Image Icon
- *      (id, label) -> { System.out.println("Selected ID: " + id + ", Label: " + label); }
+ *      (id, label) -&gt; { System.out.println("Selected ID: " + id + ", Label: " + label); }
  *    );
  * suggestor.setSuggestionFont(new Font("Segoe UI", Font.PLAIN, 16));
  * suggestor.setPopupSize(300, 180);
